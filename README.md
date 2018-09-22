@@ -10,4 +10,4 @@ https://www.youtube.com/watch?v=9VUBefUqq2Y
 
 https://www.youtube.com/watch?v=W0MvW2jaW8g
 ## lecturas
-https://medium.com/@sjsyrek/using-javascript-to-learn-haskell-f57509015842
+Using JavaScript to Learn Haskell https://medium.com/@sjsyrek/using-javascript-to-learn-haskell-f57509015842

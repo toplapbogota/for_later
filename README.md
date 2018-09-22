@@ -3,7 +3,8 @@ for later
 
 # functional programming
 ## videos
-https://www.youtube.com/watch?v=FYXpOjwYzcs
+### functional programming
+Functional Programming Basics In ES6 https://www.youtube.com/watch?v=FYXpOjwYzcs
 ### 2018 webaudio conference
 https://www.youtube.com/watch?v=9VUBefUqq2Y
 
